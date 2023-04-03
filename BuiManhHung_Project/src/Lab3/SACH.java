@@ -1,4 +1,4 @@
-package LAB3;
+package Lab3;
 import java.util.Scanner;
 public class SACH
 {
